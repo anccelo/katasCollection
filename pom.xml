@@ -10,11 +10,12 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>kata6_100doors</module>
+    <module>kata5_StringCalculator</module>
   </modules>
 
   <name>katasCollection</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <url>http://www.angelolagreca.com</url>
 
   <properties>
     <!--     Module properties   -->
