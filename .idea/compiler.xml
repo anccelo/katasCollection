@@ -6,8 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="kata5_StringCalculator" />
         <module name="kata6_100doors" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="kata6_StringCalculator" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
