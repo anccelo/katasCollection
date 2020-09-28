@@ -12,6 +12,7 @@
     <module>kata6_100doors</module>
     <module>kata5_StringCalculator</module>
     <module>kata4_bdd_HarryPotter</module>
+    <module>kata3_GildedRose</module>
   </modules>
 
   <name>katasCollection</name>
