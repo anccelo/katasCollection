@@ -7,9 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="kata4_bdd_HarryPotter" />
-        <module name="kata5_StringCalculator" />
-        <module name="kata6_100doors" />
         <module name="kata3_GildedRose" />
+        <module name="kata6_100doors" />
+        <module name="kata5_StringCalculator" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
