@@ -13,6 +13,7 @@
     <module>kata5_StringCalculator</module>
     <module>kata4_bdd_HarryPotter</module>
     <module>kata3_GildedRose</module>
+    <module>kata2_BankAccount_TDD</module>
   </modules>
 
   <name>katasCollection</name>

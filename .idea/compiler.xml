@@ -9,6 +9,7 @@
         <module name="kata4_bdd_HarryPotter" />
         <module name="kata3_GildedRose" />
         <module name="kata6_100doors" />
+        <module name="kata2_BankAccount_TDD" />
         <module name="kata5_StringCalculator" />
       </profile>
     </annotationProcessing>
